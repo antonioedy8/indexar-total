@@ -17,5 +17,5 @@ Plataforma para envio automatizado de URLs para indexação no Google e Bing, co
 ## 🚀 Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/indexar-total.git
+   git clone https://github.com/antonioedy8/indexar-total.git
    cd indexar-total
